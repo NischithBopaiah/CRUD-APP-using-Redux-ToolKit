@@ -7,3 +7,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ###  crud application built using Redux Toolkit and Router
+
+![Uploading Screenshot 2023-07-01 at 4.25.17 PM.png…]()
